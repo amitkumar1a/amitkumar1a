@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amitkumar1a
 - 👀 I’m interested in Database Technologies .
-- 🌱 I’m currently Oracle Cloud 
+- 🌱 I’m currently  learning Oracle Cloud,AI and DB security and multi-cloud.
 - 💞️ I’m looking to collaborate on Database security and multi-cloud concepts 
 - 📫 How to reach me - you can reach to me on my offcial email - amit.bk.kumar@oracle.com
 
